@@ -65,11 +65,15 @@ Sou um profissional apaixonado por tecnologia e inovação, com foco em **Linux,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E94D5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãobrunomatos/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonnyBrunno)  
-[![Discord](https://img.shields.io/badge/Discord-E94D5F?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jhonnybrunno/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E94D5F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonnybrunno/)  
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=E94D5F)](https://t.me/@JonnyBrunno)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãobrunomatos/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonnyBrunno)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jhonnybrunno/)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonnybrunno/)
+
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/@JonnyBrunno)   
 
 </div>
 
