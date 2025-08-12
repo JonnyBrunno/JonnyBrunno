@@ -26,19 +26,15 @@ Sou um profissional apaixonado por tecnologia e inovação, com foco em **Linux,
 
 ## Minhas Contribuições
 
-<div align="center">
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=Cadastro-Web-HTML-CSS&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/Cadastro-Web-HTML-CSS)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=dio-lab-open-source_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=dio-lab-open-source&bgcolor=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/dio-lab-open-source)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=Docker-&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/docker)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=linux-projeto2-iac&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/linux-projeto2-iac)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=linux-projeto1-iac&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/linux-projeto1-iac)
-
-</div>
 
 ---
 
