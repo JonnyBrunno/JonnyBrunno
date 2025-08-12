@@ -26,7 +26,31 @@ Sou um profissional apaixonado por tecnologia e inovação, com foco em **Linux,
 
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/dio-lab-open-source.git)
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=Cadastro-Web-HTML-CSS&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/Cadastro-Web-HTML-CSS)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=dio-lab-open-source_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/dio-lab-open-source)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=Docker-&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/docker)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=linux-projeto2-iac&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/linux-projeto2-iac)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBrunno&repo=linux-projeto1-iac&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JonnyBrunno/linux-projeto1-iac)
+
+</div>
+
+---
+
+### 📊 Estatísticas de Contribuição
+
+<div align="center">
+
+![JonnyBrunno GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnyBrunno&show_icons=true&theme=radical&bg_color=0d1117&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)
+![JonnyBrunno GitHub Streak](https://streak-stats.demolab.com?user=JonnyBrunno&theme=radical&background=0d1117&border=30A3DC&dates=FFF)
+![JonnyBrunno Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonnyBrunno&bg_color=0d1117&color=E94D5F&line=30A3DC&point=FFF&area=true&hide_border=true)
+
+</div>
 
 ## 🌎 Conecte-se comigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãobrunomatos/)
