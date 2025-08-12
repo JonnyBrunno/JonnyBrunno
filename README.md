@@ -46,7 +46,6 @@ Sou um profissional apaixonado por tecnologia e inovação, com foco em **Linux,
 
 <div align="center">
 
-![JonnyBrunno GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnyBrunno&show_icons=true&theme=radical&bg_color=0d1117&text_color=FFF&title_color=E94D5F&icon_color=30A3DC)
 ![JonnyBrunno GitHub Streak](https://streak-stats.demolab.com?user=JonnyBrunno&theme=radical&background=0d1117&border=30A3DC&dates=FFF)
 ![JonnyBrunno Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonnyBrunno&bg_color=0d1117&color=E94D5F&line=30A3DC&point=FFF&area=true&hide_border=true)
 
